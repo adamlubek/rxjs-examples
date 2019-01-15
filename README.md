@@ -6,6 +6,7 @@ Most of examples are also contributed to LearnRxJs website (https://www.learnrxj
 
 
 * [Accumulate http responses](https://stackblitz.com/edit/rxjs-scan-accumulate-request-responses?file=index.ts&devtoolsheight=50)
+* [Catch the dot game](https://stackblitz.com/edit/rxjs-catch-the-dot-game?file=index.ts)
 * [Coordinates of mouse down/up](https://stackblitz.com/edit/rxjs-zip-mousedownup-coordinates?file=index.ts&devtoolsheight=50)
 * [Coordinates of mouse move between mouse downs/ups](https://stackblitz.com/edit/rxjs-buffertoggle-mousemove?file=index.ts&devtoolsheight=50)
 * [Horizontal Scroll Indicator](https://stackblitz.com/edit/rxjs-horizontal-scroll-indicator?file=index.ts)
