@@ -10,6 +10,7 @@ Most of examples are also contributed to LearnRxJs website (https://www.learnrxj
 * [Click Ninja](https://stackblitz.com/edit/rxjs-click-ninja?file=index.ts)
 * [Flappy Bird](https://stackblitz.com/edit/rxjs-flappy-bird?file=index.ts)
 * [Mine Sweeper](https://stackblitz.com/edit/rxjs-minesweeper?file=index.ts)
+* [Platform Jumper](https://stackblitz.com/edit/rxjs-platform-jumper?file=index.ts)
 * [Space Invaders](https://stackblitz.com/edit/rxjs-space-invaders?file=index.ts)
 * [Tanks battle](https://stackblitz.com/edit/rxjs-tank-battle?file=index.ts)
 
