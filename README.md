@@ -14,6 +14,7 @@ Most of examples are also contributed to LearnRxJs website (https://www.learnrxj
 * [Platform Jumper](https://stackblitz.com/edit/rxjs-platform-jumper?file=index.ts)
 * [Space Invaders](https://stackblitz.com/edit/rxjs-space-invaders?file=index.ts)
 * [Tanks battle](https://stackblitz.com/edit/rxjs-tank-battle?file=index.ts)
+* [Tetris](https://stackblitz.com/edit/rxjs-tetris?file=index.ts)
 
 ### Other
 * [Accumulate http responses](https://stackblitz.com/edit/rxjs-scan-accumulate-request-responses?file=index.ts&devtoolsheight=50)
