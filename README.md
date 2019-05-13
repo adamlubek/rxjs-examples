@@ -7,6 +7,7 @@ Most of examples are also contributed to LearnRxJs website (https://www.learnrxj
 ### Games
 * [Alphabet Invasion](https://stackblitz.com/edit/rxjs-alphabet-invasion?file=index.ts)
 * [Breakout](https://stackblitz.com/edit/rxjs-breakout?file=index.ts)
+* [Car Racing](https://stackblitz.com/edit/rxjs-car-racing?file=index.ts)
 * [Catch the dot](https://stackblitz.com/edit/rxjs-catch-the-dot-game?file=index.ts)
 * [Click Ninja](https://stackblitz.com/edit/rxjs-click-ninja?file=index.ts)
 * [Flappy Bird](https://stackblitz.com/edit/rxjs-flappy-bird?file=index.ts)
