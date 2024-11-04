@@ -11,6 +11,7 @@ Most of examples are also contributed to LearnRxJs website (https://www.learnrxj
 * [Breakout](https://stackblitz.com/edit/rxjs-breakout?file=index.ts)
 * [Car Racing](https://stackblitz.com/edit/rxjs-car-racing?file=index.ts)
 * [Catch the dot](https://stackblitz.com/edit/rxjs-catch-the-dot-game?file=index.ts)
+* [Dinosaur (Chrome's offline mode game)](https://stackblitz.com/edit/rxjs-chrome-dinosaur-game?file=index.ts)
 * [Click Ninja](https://stackblitz.com/edit/rxjs-click-ninja?file=index.ts)
 * [Flappy Bird](https://stackblitz.com/edit/rxjs-flappy-bird?file=index.ts)
 * [Memory Game](https://stackblitz.com/edit/rxjs-memory-game?file=index.ts)
